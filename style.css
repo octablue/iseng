@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    color :white;
+    height: 100vh;
+    font-family: 'Arial', sans-serif;
+}
+#kumpulan {
+    font-size: 50px;
+    border-radius: 20px;
+    background-color: black;
+    box-shadow: 10px 10px 8px black;
+    padding: 20px;
+    margin-top: 20px; 
+}
+#tanggal {
+    font-size: 20px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
